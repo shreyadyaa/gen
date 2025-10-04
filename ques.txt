@@ -1,0 +1,62 @@
+Q1. Explain what Generative AI is and give two real-world applications. (5 Marks)
+Ans: generative ai is an intelligence that use to predict or generate new content (text, images, music, code, etc.) the output in more like humanaized way by using llms , gans etc. 
+
+Two real world application is:
+
+1. chatgpt: it is a generative ai launched by openai as it uses the trained llm and give result more like a human.
+	   Like it can an write an entire email from scratch based on a short instruction like “Write a professional email to HR for followup for an interview call"
+
+2. gemini: it works same as chatgpt just the difference is it is owned by google.
+
+
+Q2. Differentiate between Generative AI and Traditional AI models with one example each. (5 Marks)
+Ans:traditional ai: 1. it used to just predict or classify the data, cant able to create new content.
+		    2. it learned features from the trained data and predict.
+
+	example: 1. credit card fraud
+		 2. spam email classifier
+
+    Generative ai:  1. it used to predict ,classify as well created the new content by predicting the output .
+		    2. it learns from the data distribution and tryies to create the similar data by mimicing them.
+	
+	example: 1. chatgpt 
+		 2. gemini
+
+
+Q3. What are embeddings in GenAI, and why are they important in working with text data? (5 Marks)
+Ans: embedding: it is a technique through which we convert the text in numeric form so that an ai model can understand it.
+	This technique is used to fetch the semantic (similar meaning of different words)meaning of data and map them together, which later used by genai to response the user in more meaningful way
+
+	they important in working with text data as:
+	
+	1. for capturing the sementic meaning
+	2. even we can perform the similarity search
+	3. handling synonyms , idoms or other content.
+
+Q4. Write a short note on Vector Databases (VectorDBs) and their role in Retrieval-Augmented Generation (RAG). (5 Marks)
+Ans: Vector Databases (VectorDBs): it is the database use to store, index, and search the embedding value as embedding value is high in dimension and cant be stored by the mysql/nosql database.
+				   it uses ann (Approximate Nearest Neighbor) techniquev to search, it quickly find vectors that are most similar to a query vector.
+		
+		example : FAISS/Chroma/Pinecone
+
+	their role Retrieval-Augmented Generation (RAG): 
+	
+	1. store embedding: it converted Documents, context, PDFs, or other knowledge bases into embedding and store it in vectorDB.
+	2. retrieve revelant chunks: when user ask a question/ querry then that querry is converted into embeddings and vectorDB helps to retrive most similar vector from database and passed by the llm so it could give the logical response.
+
+Q5. What is RAG (Retrieval-Augmented Generation)? Explain with an example. (5 Marks)
+Ans: RAG (Retrieval-Augmented Generation): 1. it is an AI approach that combines information retrieval with text generation.
+					   2. it also helps to avoid the hallucination nd ensure ans is real.
+					    	
+
+	example: when a user asks a question, the system first retrieves relevant information (using embeddings + a vector database) and 
+		 then feeds it to LLM to generate a more accurate and up-to-date response.
+
+
+
+
+
+
+
+
+

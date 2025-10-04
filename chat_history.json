@@ -1,0 +1,54 @@
+[
+  {
+    "user": "hi chatbot ...shreya this side!!",
+    "bot": "Hi Shreya! It's great to meet you. How can I help you today?"
+  },
+  {
+    "user": "can u list all schemes?",
+    "bot": "Certainly! There are quite a few important government schemes designed to help different sections of the population. Here are some of them:\n\n1.  **National Scholarship Portal (NSP):** This scheme is all about helping students. It provides financial assistance through scholarships, ranging from ₹10,000 to ₹50,000 per year, to students from SC, ST, OBC, Minority, and economically weaker sections to pursue their education.\n\n2.  **Pradhan Mantri Awas Yojana (PMAY):** If you're looking for affordable housing, PMAY aims to help urban poor by offering a subsidy on home loan interest, up to 6.5% for 20 years. It's for EWS, LIG, and MIG categories.\n\n3.  **PM Ujjwala Yojana:** This scheme focuses on providing free LPG connections to women from Below Poverty Line (BPL) households. You get a free LPG connection with financial support of ₹1,600.\n\n4.  **PM-Kisan Samman Nidhi (PM-KISAN):** This is for our farmers! It provides income support of ₹6,000 per year, paid in three installments of ₹2,000 each, to all landholding farmer families in India.\n\n5.  **Ayushman Bharat Yojana (PM-JAY):** This is a health scheme providing health coverage of up to ₹5 lakhs per family per year for secondary and tertiary care hospitalization. It's for families identified by SECC 2011 data and certain occupational criteria.\n\nThese are some of the key schemes that address various needs like education, housing, clean cooking fuel, farmer support, and healthcare."
+  },
+  {
+    "user": "ok!",
+    "bot": "Great! I'm glad I could provide that information.\n\nIs there anything specific you'd like to know about any of these schemes, or perhaps another topic I can help you with?"
+  },
+  {
+    "user": "an education scheme for poor ?",
+    "bot": "Sorry, I cannot respond right now. Check your API key or network."
+  },
+  {
+    "user": "what is my name?",
+    "bot": "Sorry, I cannot respond right now. Check your API key or network."
+  },
+  {
+    "user": "hii chatbot shreya this side",
+    "bot": "Hi Shreya! It's great to hear from you again. How can I assist you today?"
+  },
+  {
+    "user": "can u list all schemes",
+    "bot": "Certainly! I can tell you about some important government schemes that aim to help different sections of society. Here's a brief overview:\n\n1.  **National Scholarship Portal (NSP)**: This scheme is all about helping students. It provides financial assistance so they can pursue their education. Depending on the specific scholarship, you could get anywhere from ?10,000 to ?50,000 per year.\n\n2.  **Pradhan Mantri Awas Yojana (PMAY)**: If you're looking for affordable housing, this scheme is designed for the urban poor. It offers a subsidy on home loan interest, up to 6.5% for 20 years, making homes more affordable.\n\n3.  **PM Ujjwala Yojana**: This one focuses on providing clean cooking fuel. It offers free LPG connections to women from Below Poverty Line (BPL) households, with financial support of ?1,600 per connection.\n\n4.  **PM-Kisan Samman Nidhi (PM-KISAN)**: This scheme provides direct income support to farmer families. Eligible landholding farmer families receive ?6,000 per year, paid in three equal installments.\n\n5.  **Ayushman Bharat Yojana (PM-JAY)**: For health coverage, this scheme is a big help. It provides free hospitalization up to ?5 lakhs per family per year for secondary and tertiary care.\n\nI hope this list gives you a good idea of these schemes!"
+  },
+  {
+    "user": "ok",
+    "bot": "Great! I'm glad I could provide that information.\n\nIs there anything specific you'd like to know about any of these schemes, or perhaps another topic I can help you with?"
+  },
+  {
+    "user": "an educational scheme for poors?",
+    "bot": "Yes, there's a great scheme called the **National Scholarship Portal (NSP)** that aims to help students from economically weaker sections pursue their education.\n\nHere's a quick overview:\n\n*   **What it is:** It provides financial assistance in the form of scholarships to students.\n*   **Who is it for:** Students from various categories, including those belonging to SC, ST, OBC, Minority, and especially **economically weaker sections**.\n*   **What you get:** The scholarship amounts can vary, typically ranging from ₹10,000 to ₹50,000 per year, depending on the specific scholarship you qualify for.\n*   **What you need:** You'll generally need your Aadhaar Card, an Income Certificate to prove your economic status, and your Educational Certificates.\n\nThis scheme is specifically designed to support the education of those who might not otherwise be able to afford it."
+  },
+  {
+    "user": "what doc i need?",
+    "bot": "For the **National Scholarship Portal (NSP)** scheme, you'll generally need the following documents:\n\n1.  **Aadhaar Card**\n2.  **Income Certificate** (to prove your economic status)\n3.  **Educational Certificates** (mark sheets, degree certificates, etc., from your previous academic qualifications)\n4.  **Bank Account Passbook** (for scholarship disbursement)\n5.  **Domicile Certificate** (sometimes required, depending on the specific scholarship)\n6.  **Caste Certificate** (if applying under SC/ST/OBC/Minority categories)\n\nIt's always a good idea to check the specific scholarship's guidelines on the National Scholarship Portal, as requirements can sometimes vary slightly."
+  },
+  {
+    "user": "okay !! thanks",
+    "bot": "You're most welcome, Shreya! I'm glad I could help.\n\nIs there anything else you'd like to know or discuss today?"
+  },
+  {
+    "user": "hello",
+    "bot": "Hello there! How can I assist you today?"
+  },
+  {
+    "user": "kem cho",
+    "bot": "Kem cho! How can I assist you today, Shreya?"
+  }
+]
