@@ -12,7 +12,7 @@ FAISS_INDEX_FILE = "schemes_faiss.index"
 METADATA_FILE = "schemes_metadata.json"
 EMBED_MODEL_NAME = "all-MiniLM-L6-v2"
 TOP_K = 5
-GOOGLE_API_KEY = "AIzaSyBvejIwuCsivIYoi4jUwImQsvvoWWM9Pyo"
+GOOGLE_API_KEY = "AIzaSyBvejIwuCsivIYoi4jUwImQsvvoWWM9Pyoh"
 
 
 try:
